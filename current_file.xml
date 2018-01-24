@@ -388,7 +388,7 @@
     <string name="edit_time_ranges">時間帯の編集</string>
     <string name="edit_time_range">時間帯の編集</string>
     <string name="edit_all_time_ranges">編集（すべて）</string>
-    <string name="edit_times">クリックすると時間帯の編集ができます</string>
+    <string name="edit_times">タップすると時間帯の編集ができます</string>
     <string name="no_times_setting">時間の設定がありません。睡眠の管理は起動できません。</string>
     <string name="no_times">時間の設定がありません。右上のプラスボタンから追加してください。</string>
     <string name="range_is_long_title">時間設定の警告</string>
