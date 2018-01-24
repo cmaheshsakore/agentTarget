@@ -461,13 +461,13 @@
     <string name="location_chooser_clear_location">位置の設定を削除</string>
     <string name="location_lookup">位置情報解決</string>
     <string name="location_chooser">位置を選択</string>
-    <string name="location_unset">位置をクリック</string>
+    <string name="location_unset">位置をタップ</string>
     <string name="exclusion_respond_read">\"メッセージに自動返信\"と\"話して返信\"の両方のオプションを選択した状態にすると、意図せずに必要以上のメッセージへ返信してしまう可能性があります。</string>
     <string name="exclusion_respond_sms">\"メッセージに自動返信\"と\"話して返信\"の両方のオプションを選択した状態にすると、意図せずに必要以上のメッセージへ返信してしまう可能性があります。</string>
     <string name="exclusion_drive_agent_ad_bt">Bluetoothとモーション検知の両方が設定されている場合、スマ執事はモーション検知を無視します。</string>
     <string name="wifi_chooser_error">不明なエラー</string>
-    <string name="yes_im_in">ログインしました</string>
-    <string name="onboarding_process">%2$s中の%1$s</string>
+    <string name="yes_im_in">ログイン</string>
+    <string name="onboarding_process">%1$s/%2$s</string>
     <string name="skip">スキップ</string>
     <string name="finish">完了</string>
     <string name="onboarding_total_steps">2</string>
@@ -482,8 +482,8 @@
     <string name="choose_calendar">カレンダー</string>
     <string name="setup_car_bluetooth">車のBluetooth</string>
     <string name="onboarding_intro_title">利用を開始する</string>
-    <string name="onboarding_intro_intro">スマ執事は、状況に応じて（会議中、運転中、睡眠中、省電モード中など）お使いのデバイスを自動的に適切なモードに設定し、SMSメッセージや着信に自動返信します。</string>
-    <string name="onboarding_intro_header_2">スマ執事は以下を利用可能：</string>
+    <string name="onboarding_intro_intro">スマ執事は、状況に応じて（会議中、運転中、睡眠中、省電モード中など）お使いの端末を自動的に適切なモードに設定し、SMSメッセージや着信に自動返信します。</string>
+    <string name="onboarding_intro_header_2">スマ執事は以下を利用します：</string>
     <string name="your_cars_bluetooth">車のBluetooth</string>
     <string name="your_calendar">カレンダーおよび連絡先</string>
     <string name="onboarding_learn_more">詳細</string>
@@ -493,7 +493,7 @@
     <string name="settings_other">その他</string>
     <string name="share_body">スマ執事が駐車場所を記録しました： %s</string>
     <string name="share_share_chooser">共有：</string>
-    <string name="ok_got_it">解りました</string>
+    <string name="ok_got_it">OK</string>
     <string name="setup_successful">セットアップが完了しました。</string>
     <string name="drive_agent_onboarding_no_bluetooth_devices">Bluetoothのデバイスが検出されませんでした。スマ執事（運転）はモーション検知を使用します。</string>
     <string name="wifi_learning_ignore">無視</string>
